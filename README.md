@@ -1,7 +1,7 @@
 # Modul-Enkapsulasi
-Nama  : Walyul'ahdi Maulana Ramadhan
-Kelas : XR1
-No    : 39
++ Nama  : Walyul'ahdi Maulana Ramadhan
++ Kelas : XR1
++ No    : 39
 # Latihan 1
 ![Enkap Lat1](https://user-images.githubusercontent.com/71486008/111592035-d6305e80-87fa-11eb-8d6c-e990900a9b71.png)
 # Latihan 2
